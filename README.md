@@ -1,2 +1,2 @@
-print("Hello World")
-print("This is my first program")
+println("Hello World")
+println("This is my first program")
